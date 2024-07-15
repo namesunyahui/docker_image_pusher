@@ -6,4 +6,4 @@ nginx
 --platform=linux/arm64 xiaoyaliu/alist
 redis:latest
 mysql:latest
-open-webui:latest
+open-webui:main
