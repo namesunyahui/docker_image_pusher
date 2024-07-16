@@ -7,3 +7,4 @@ nginx
 redis:latest
 mysql:latest
 open-webui:main
+ollama
