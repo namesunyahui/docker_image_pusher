@@ -6,4 +6,4 @@ nginx
 --platform=linux/arm64 xiaoyaliu/alist
 redis:latest
 mysql:latest
-m1k1o/neko:firefox
+stonith404/pingvin-share
