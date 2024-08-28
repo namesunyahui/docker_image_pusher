@@ -7,4 +7,4 @@ nginx
 redis:latest
 mysql:latest
 stonith404/pingvin-share
-zfile
+zhaojun1998/zfile
