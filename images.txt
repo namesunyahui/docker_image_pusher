@@ -9,3 +9,4 @@ mysql:latest
 stonith404/pingvin-share
 zhaojun1998/zfile
 redis/redis-stack
+neo4j
